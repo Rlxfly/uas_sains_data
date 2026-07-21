@@ -1,10 +1,7 @@
-
-![Logo](https://i.ibb.co/cSK01C59/Wuthering-Waves-Screenshot-2026-06-27-01-53-13-61.png)
-
 <p align="center">
-    <img src="https://telegra.ph/file/cc5ce3e7cf934ea8268af.jpg" width="50%" height="50%" alt="Relldev"/>
+    <img src="https://i.ibb.co/cSK01C59/Wuthering-Waves-Screenshot-2026-06-27-01-53-13-61.png" width="50%" height="50%" alt="Re7Pntx"/>
     <br>
-    <a href="https://github.com/Rlxfly"><img title="Created by" src="https://img.shields.io/badge/Creator-Relldev-green?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Rlxfly"><img title="Created by" src="https://img.shields.io/badge/Creator-Re7Pntx-cyan?style=for-the-badge&logo=github"></a>
 </p>
 
 # Statistik Luas Area Kopi Robusta di Kabupaten Lima Puluh Kota
