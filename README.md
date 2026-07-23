@@ -15,7 +15,7 @@ Kelas: IF03
 ## Apa fungsi dari program ini?
 Program ini berfungsi untuk membuat diagram batang dari data yang diberikan dan menghitung rata-rata dari data tersebut
 
-# How to use?
+### How to use?
 
 ```python
 python main.py
@@ -24,7 +24,7 @@ python main.py
 ```python
 python3 main.py
 ```
-# Beberapa fungsi yang saya pakai di dalam file `utils.py`
+## Beberapa fungsi yang saya pakai di dalam file `utils.py`
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `muat_data(filepath)` | `path` | Membaca file CSV |
@@ -33,7 +33,7 @@ python3 main.py
 | `simpan_ringkasan_txt(filepath, teks)` | `path, text` | Menulis hasil ringkasan ke file teks |
 | `buat_grafik(df, filepath_output)` | `file, path` | Membuat 2 jenis grafik menggunakan Matplotlib |
 
-# Contoh cara memakai fungsi dari file `utils.py`
+### Contoh cara memakai fungsi dari file `utils.py`
 
 ```python
   import utils
@@ -51,7 +51,7 @@ def main():
     df = utils.muat_data(path_dataset)
 ```
 
-# Preview output
+### Preview output
 ------------------
 - [x] Output dari terminal <details><summary>Screenshot</summary><img src="https://i.ibb.co/7xMnpxYd/image.png"></details>
 - [x] Data .csv mentah <details><summary>Screenshot</summary><img src="https://i.ibb.co/nsJqBvCq/image.png"></details>
@@ -61,12 +61,12 @@ def main():
 ## Data di atas saya ambil dari [web ini](https://data.go.id/dataset/dataset/luas-area-kopi-robusta-di-kabupaten-lima-puluh-kota)
 ------------------
 
-## Authors
+### Authors
 
 [![Rlxfly](https://github.com/Rlxfly.png?size=100)](https://github.com/Rlxfly)
 
 
-## Library that i use
+### Library that i use
 
 
 ![lol](https://img.shields.io/badge/Using-Pandas-blue.svg
